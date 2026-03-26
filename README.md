@@ -75,8 +75,8 @@ Screening resumes usually involves a three-step process based on the role’s mi
 To get started with the project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/anukalp-mishra/Resume-Screening.git
-cd Resume-Screening
+git clone https://github.com/leelabokka/resume-screening.git
+cd resume-screening
 pip install -r requirements.txt
 ```
 ## Usage
@@ -107,9 +107,14 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+
+
+## 👩‍💻 Contact
+
 For any questions or inquiries, please contact:
 
-Anukalp Mishra
+**Leela Bokka**
 
-GitHub: anukalp-mishra
+🔗 GitHub: https://github.com/leelabokka  
+
+
